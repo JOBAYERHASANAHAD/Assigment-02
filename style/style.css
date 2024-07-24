@@ -1,0 +1,35 @@
+*{
+    margin: 0 auto;
+    padding: 0%;
+    background-color: black;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.Club{
+    background-color: orangered;
+    text-decoration: solid;
+}
+.div btn {
+    border-radius: 20px;
+}
+.habit{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.copyright{
+    text-align: center;
+    font-size: small;
+    color: rgba(142, 185, 166, 0.294);
+}
